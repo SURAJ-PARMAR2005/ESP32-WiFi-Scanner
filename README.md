@@ -16,3 +16,15 @@ This project scans nearby Wi-Fi networks using the ESP32 and displays SSID, RSSI
 - Added `WiFi.mode(WIFI_STA)` to ensure proper scan
 
 ## ✅ Output
+
+## 📸 Screenshots
+
+### 1. Arduino IDE Code View
+
+![Code View](arduino_code_view.png)
+
+### 2. Simulated Serial Monitor Output
+
+![Serial Output](output_sample.png)
+
+> These are mock screenshots added for documentation, as hardware was not available during testing.
